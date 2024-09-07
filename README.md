@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Shrushti Shette</h1>
+<h1 align="center">Hi 👋, I'm Srushti Shete</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <!-- <img align="right" alt="coding" width="400" border-radius="10" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences i have worked on real time projects, successfully completed 6 months intrenship.
 
-- ⚡ Fun fact **I am Fun King**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
