@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sheteshrushti12@gmail.com**
 
-- 📄 Know about my experiences i have worked on real time projects, successfully completed 6 months intrenship.
+- 📄 Know about my experiences i have worked on real time projects, successfully completed 6 months internship.
 
   
 
